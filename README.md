@@ -16,7 +16,8 @@ Feel free to customize and contribute to enhance its functionality!
 ## Example Results
 
 
-![image](https://github.com/abs768/Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient/assets/91774301/1bf42e76-2660-42ed-9cc8-565df3c2398b)
+![image](https://github.com/abs768/Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient/assets/91774301/88024310-794e-4f58-95d2-8b49ef3fe9da)
+
 
 
 ## Dependencies
